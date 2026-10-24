@@ -14,3 +14,4 @@ wheels/
 
 # Documentation build files
 docs/_build/
+uv.lock
